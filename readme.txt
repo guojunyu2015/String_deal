@@ -7,3 +7,4 @@ Creating a new branch is quick AND simple.
 feature test
 feature test
 git stash issue-101 branch changed
+git stash issue-101 branch changed
